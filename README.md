@@ -1,6 +1,8 @@
-🌌 Ny’vorn: Echoes of the Hollow Star
+🌌 Ny’vorn: Echoes of the Hollow Star (Não mais hehe.)
 “Ele sorri porque já viu o fim… e porque ele o escreveu.”
+A principio esse serio o meu futuro jog, porem essa versão ficara somente para teste de mecanicas e afins. pois iniciei de novo porem com muitas melhorias e melhor organiação.
 
+Daqui para baixo era o que o jogo iria se tornar.
 🪐 Sobre o Projeto
   - Ny’vorn é um jogo sandbox de horror cósmico e aventura, desenvolvido em C# com MonoGame.
   - Você é Ekko, uma entidade nascida do impacto entre o vazio e o sorriso que tentou atravessá-lo — Smiley, um conceito vivo que corrompe realidades.
